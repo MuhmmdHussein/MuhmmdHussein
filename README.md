@@ -3,8 +3,6 @@
 
 ## ITI Trainee || Web Developer  || Lifelong Learner ||
 
-![Banner](https://raw.githubusercontent.com/MuhmmdHussein/MuhmmdHussein/main/banner.png) <!-- Make sure to replace with your actual image URL -->
-
 ## 🔭 I’m currently working on Python and Odoo development projects.
 ## 🌱 I’m currently learning advanced features of Odoo and exploring new Python libraries.
 ## 👯 I’m looking to collaborate on Python projects and Odoo modules.
