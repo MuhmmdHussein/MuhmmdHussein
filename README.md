@@ -12,5 +12,4 @@
 
 <p style="font-size: 18px;"><strong>Languages and Tools:</strong></p>
 <p style="font-size: 18px;">
-python, odoo, django, flask, git, html, css, javascript, mysql, postgresql, mongodb, docker, redis, vuejs, react
-</p>
+python, odoo,git, html, css, javascript, mysql, postgresql
