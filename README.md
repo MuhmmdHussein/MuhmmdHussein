@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @MuhmmdHussein
+# 👋 Hi, I’m Mohamed Hussein
 
 ##  I’m interested in Python and Odoo development.
 
