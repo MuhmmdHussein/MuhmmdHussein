@@ -1,15 +1,27 @@
-# Hi 👋, I’m Mohamed Hussein
+# Hello, I'm Muhmmd Hussein
 
-<p style="font-size: 18px;">🔭 I’m currently working on Python and Odoo development projects.</p>
 
-<p style="font-size: 18px;">🌱 I’m currently learning advanced features of Odoo and exploring new Python libraries.</p>
+## ITI Trainee || Web Developer  || Lifelong Learner ||
 
-<p style="font-size: 18px;">👯 I’m looking to collaborate on Python projects and Odoo modules.</p>
+![Banner](https://raw.githubusercontent.com/MuhmmdHussein/MuhmmdHussein/main/banner.png) <!-- Make sure to replace with your actual image URL -->
 
-<p style="font-size: 18px;">💬 Ask me about Python, Odoo, and software development in general.</p>
+## 🔭 I’m currently working on Python and Odoo development projects.
+## 🌱 I’m currently learning advanced features of Odoo and exploring new Python libraries.
+## 👯 I’m looking to collaborate on Python projects and Odoo modules.
+## 💬 Ask me about Python, Odoo, and software development in general.
+## 📫 How to reach me: [muhmmdamer@gmail.com](mailto:muhmmdamer@gmail.com)
 
-<p style="font-size: 18px;">📫 How to reach me: <a href="mailto:muhmmdamer@gmail.com">muhmmdamer@gmail.com</a></p>
+## Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Odoo](https://img.shields.io/badge/Odoo-512F94?style=for-the-badge&logo=odoo&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p style="font-size: 18px;"><strong>Languages and Tools:</strong></p>
-<p style="font-size: 18px;">
-python, odoo,git, html, css, javascript, mysql, postgresql
+## GitHub Stats:
+![MuhmmdHussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhmmdHussein&show_icons=true&theme=radical)
+
+## Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhmmdHussein&layout=compact&theme=radical)
