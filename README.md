@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MuhmmdHussein
+- 👀 I’m interested in Python and Odoo development.
+- 🌱 I’m currently learning advanced features of Odoo and exploring new Python libraries.
+- 💞️ I’m looking to collaborate on Python projects and Odoo modules.
+- 📫 How to reach me: [your-muhmmdamer@gmail.com](mailto:your-email@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love automating repetitive tasks and improving software efficiency!
