@@ -9,3 +9,4 @@
 ## 💬 Ask me about Python, Odoo, and software development in general.
 
 ## 📫 How to reach me: [muhmmdamer@gmail.com](mailto:muhmmdamer@gmail.com)
+
