@@ -1,4 +1,4 @@
-# Hi 👋, I’m @MuhmmdHussein
+# Hi 👋, I’m Mohamed Hussein
 
 <p style="font-size: 18px;">🔭 I’m currently working on Python and Odoo development projects.</p>
 
