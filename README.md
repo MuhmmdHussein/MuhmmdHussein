@@ -1,7 +1,7 @@
 # Hello, I'm Muhmmd Hussein
 
 <p style="font-size: 14px;">
-  Odoo Developer || Python Developer ||  ITI Graduate || Lifelong Learner ||
+  Odoo Developer || Python Developer ||  ITI Graduate || Lifelong Learner
 </p>
 <p style="font-size: 14px;">
   🔭 I’m currently working on Python and Odoo development projects.
